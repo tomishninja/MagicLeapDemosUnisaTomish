@@ -1,0 +1,269 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "16d2350bbb17495a461416d4969cbc60dcd128f6",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3897536,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c77d14526edf04eafd077e6a296f92341bb9e357",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 57636496,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8bca0dc93f25b0d4de87e9733a79e0fdb762762f",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\libil2cpp.so-cf29f07148375e01",
+   "xfrm_size": 57637254
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6c73b1b0714ad24c1d3ac41c7c01fc0bee253ef4",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\AudioPluginMSASpatializer.so-2dff1e9fefd0bac8",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "d89d9052a340e55a48c1dcea3694f2da6b1beccb",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "06995ecae530eca2b6f5337b27dbdfcb727599da",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495800,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "709e6a830e4de5db1d6ce00b6a55f40f01524bf9",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\UnityMagicLeap.so-2dff1e9fefd0bac8",
+   "xfrm_size": 1496558
+  },
+  {
+   "compression": 8,
+   "hash": "e36553e9a3113280d39db515a350a0036cda878d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f90763918a04033b3919cd3b6aa911e24366049e",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\libml_camera_plugin.so-2dff1e9fefd0bac8",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "0ee8bd5ed3f83c8d11c84a597fb375ec525b0642",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "507677ffeaa99f7580355e8fa07bf4b25e8f267c",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\libml_mediaplayer_plugin.so-2dff1e9fefd0bac8",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "70be266d3d2f22f6f04a0f189f1c17191f8188a1",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754668,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "07a1a6072f5e1bb3a3f4905632232dc66e76c2d5",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 168,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "3c7f6b1ac73c29efb0b83c3210149708f709a995",
+   "pkgpath": "Data/boot.config",
+   "size": 269,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "57ff0e65da25bce04412ede36d54be9cd02f0363",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 42192,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "608e666debd6a2498fca49dd76cf61c10bfd9935",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 46236,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ef4b3d901ffa1a189e6b20d545450a06d3d9065c",
+   "pkgpath": "Data/level0",
+   "size": 7548,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "65d9f30b926d19b592ab846dfcebeddc8edac5bb",
+   "pkgpath": "Data/resources.assets",
+   "size": 1571224,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0501952c26617aa436a2e073f1f74c31e5a8476c",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 454704,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "a996c56ab1f1107c57cb674e8b698eb46654f9ef",
+   "pkgpath": "bin/Player.elf",
+   "size": 48669488,
+   "src": "C:/UnityProjects/MagicLeapDemosUnisaTomish/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bea6d65feaeff6b393291be70c43992528e09e06",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\Player.elf-818751721e088a24",
+   "xfrm_size": 48670246
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/clatj010/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7855e3379b96610b818ea118eba270233a2e7a39",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\libc++_shared.so-fd018acc08f5e865",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "b374b8363f71982cc23a8781ce1de421296454fc",
+   "pkgpath": "manifest.xml",
+   "size": 3453,
+   "src": "C:\\UnityProjects\\MagicLeapDemosUnisaTomish\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "da6c2dab2323a9fff70057d50470c814cdf0ded3",
+     "developer_id": "8febbf58-8af0-4880-8514-688c1abf98cc"
+    }
+   },
+   "xfrm_hash": "4d816dad6d15048971be22e3ad53b42a658b3a9b",
+   "xfrm_path": "C:/UnityProjects/MagicLeapDemosUnisaTomish/.out/.cache/debug_lumin_clang-3.8_aarch64/com.wcl.magicleapdemos-0c09f253019880c9\\manifest.xml-818751721e088a24",
+   "xfrm_size": 1168
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\UnityProjects\\Licences\\mldemosversion4v2.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

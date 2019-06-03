@@ -631,7 +631,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: C:/unityProjects/MagicLeap/privatekeyMagicLeapDemoCert/thomassmagicleapdemotest.cert
+    m_CertPath: C:/UnityProjects/Licences/mldemosversion4v2.cert
     m_SignPackage: 1
   luminIsChannelApp: 0
   luminVersion:
